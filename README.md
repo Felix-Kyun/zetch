@@ -12,4 +12,5 @@
 - fix the readme 
 - add install instructions
 - remove dependancy from figlet
+- add help text 
 - /*
